@@ -10,11 +10,6 @@ Someone delving into FE and BE realms, choosing to embrace the full-stack journe
 - ✒️ Discover my thoughts on tech and innovation [Medium](https://medium.com/@karamonist).
 - 💬 Ask me about web products [abdullah@iyigirisim.net](mailto:abdullah@iyigirisim.net).
 
-## Say Hi 👋
-
-<a href="https://www.twitter.com/karamonist" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/karamonist?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"/></a>
-
 ## Tech Stack 🦾
 
 <p align="left">
@@ -38,3 +33,6 @@ src="https://img.shields.io/twitter/follow/karamonist?logo=twitter&style=for-the
 ## Status 🎯
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahkaraman" alt="abdullahkaraman" /></a></p>
+
+<a href="https://www.twitter.com/karamonist" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/karamonist?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"/></a>
