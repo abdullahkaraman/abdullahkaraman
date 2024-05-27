@@ -6,7 +6,6 @@ Someone delving into FE and BE realms, choosing to embrace the full-stack journe
 
 - 📍 I'm based in Istanbul.
 - 👨🏻‍💻 I’m currently working on [MentalUP](https://mentalup.co).
-- 🚀 I'm the founder of [iyigirisim](https://iyigirisim.net), a tech consultancy catering to startups.
 - ✒️ Discover my thoughts on tech and innovation [Medium](https://medium.com/@karamonist).
 - 💬 Ask me about web products [abdullah@iyigirisim.net](mailto:abdullah@iyigirisim.net).
 
